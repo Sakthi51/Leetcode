@@ -25,4 +25,5 @@ class Solution:
         # leave dummy node and return from the first node
         return dummy.next
 
-        
+# Time complexity - O(n)
+# Space complexity - O(1)
