@@ -14,3 +14,6 @@ class Solution:
             prev = curr # incrementing the prev to next
             curr = nxt # incrementing the curr to next
         return prev
+
+# Time complexity - O(n)
+# Space complexity - O(1)
